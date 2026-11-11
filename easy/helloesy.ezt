@@ -1,0 +1,9 @@
+*---------------------------------------------------------------------*
+* PROGRAM: HELLOESY                                                   *
+* PURPOSE: SIMPLE HELLO WORLD PROGRAM FOR Z/OS                        *
+*---------------------------------------------------------------------*
+PROGRAM NAME HELLOESY
+*
+JOB INPUT NULL
+   DISPLAY 'HELLO WORLD FROM EASYTRIEVE ON Z/OS'
+   STOP
